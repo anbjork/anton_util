@@ -1,0 +1,10 @@
+
+Anything I've done here is public domain. Do whatever you want with it.
+
+I'm not well versed in the intricacies and legalese of licensing, but you may have to pay attention to the underlying Python license. More information about it here
+https://docs.python.org/3/license.html
+Google for it if the link is dead.
+
+The overall message from their side seems pretty clear, they want people to be able to use it with minimal restrictions.
+
+//AB
