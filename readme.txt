@@ -11,7 +11,7 @@ Note that the package name and import name is
 anton_util
 not
 anton-util
-as in the pip install command shown here. If I remember, there is a bug somewhere in the Python distribution chain that replaces _ with - in package names. It seems to be around PyPI since the package import name and pip name is according to the pyproject.toml, ie anton_util. This is important, since
+as in the pip install command shown on PyPI. If I remember, there is a bug somewhere in the Python distribution chain that replaces _ with - in package names. It seems to be around PyPI since the package import name and pip name is according to the pyproject.toml, ie anton_util. This is important, since
 import anton-util
 is invalid Python syntax while
 import anton_util
