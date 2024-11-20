@@ -8,7 +8,6 @@ description = "Some small Python utilities for everyday convenience"
 readme = "readme.txt"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: public domain",
     "Operating System :: OS Independent",
 ]
 
